@@ -1,0 +1,3340 @@
+[
+    {
+        "id": 3216174,
+        "name": "RS Umum Rawa Lumbu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3217042,
+        "name": "RS Jiwa Provinsi Jawa Barat",
+        "prov": "JAWA BARAT",
+        "type": "RSK Jiwa",
+        "cls": "A",
+        "owner":"Pemprop"
+    },
+
+    {
+        "id": 3271046,
+        "name": "RS Jiwa dr. H. Marzoeki Mahdi",
+        "prov": "JAWA BARAT",
+        "type": "RSK Jiwa",
+        "cls": "A",
+        "owner":"Kemkes "
+    },
+
+    {
+        "id": 3273015,
+        "name": "RS Umum Pusat Dr. Hasan Sadikin",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "A",
+        "owner":"Kemkes "
+    },
+
+    {
+        "id": 3273191,
+        "name": "RS Khusus Mata Cicendo",
+        "prov": "JAWA BARAT",
+        "type": "RSK Mata",
+        "cls": "A",
+        "owner":"Kemkes "
+    },
+
+    {
+        "id": 3273201,
+        "name": "RS Paru Dr. H. A. Rotinsulu",
+        "prov": "JAWA BARAT",
+        "type": "RSK PARU",
+        "cls": "A",
+        "owner":"Kemkes "
+    },
+
+    {
+        "id": 3273464,
+        "name": "RS Khusus Gigi dan Mulut UNPAD",
+        "prov": "JAWA BARAT",
+        "type": "RSK GM",
+        "cls": "A",
+        "owner":"Kementerian Lain"
+    },
+
+    {
+        "id": 3273486,
+        "name": "RS Umum Santosa Hospital Bandung Central",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "A",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201024,
+        "name": "RS Paru Dr. M. Goenawan Partowidigdo",
+        "prov": "JAWA BARAT",
+        "type": "RSK PARU",
+        "cls": "B",
+        "owner":"Kemkes "
+    },
+
+    {
+        "id": 3201046,
+        "name": "RS Umum Daerah Cibinong",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3201050,
+        "name": "RS Umum Daerah Ciawi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3201072,
+        "name":  "RS Umum Puri Cinere",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201126,
+        "name":  "RS Umum Hermina Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3201185,
+        "name":  "RS Umum Meilia",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3202014,
+        "name": "RS Umum Daerah Sekarwangi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3203015,
+        "name": "RS Umum Daerah Sayang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3204016,
+        "name": "RS Umum Daerah Majalaya",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3277020,
+        "name":  "RS Umum Daerah Cibabat",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3277031,
+        "name":  "RS Umum Tk II Dustira",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"TNI AD"
+    },
+
+    {
+        "id": 3204086,
+        "name": "RS Umum Daerah Al Ihsan Provinsi Jawa Barat",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemprop"
+    },
+
+    {
+        "id": 3205010,
+        "name":  "RS Umum Daerah dr. Slamet Garut",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3206011,
+        "name": "RS Umum Daerah dr. Soekardjo",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3207023,
+        "name":  "RS Umum Daerah Banjar",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3208013,
+        "name":  "RS Umum Daerah 45 Kuningan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3209014,
+        "name":  "RS Umum Daerah Waled",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3209036,
+        "name":  "RS Paru Provinsi Jawa Barat",
+        "prov": "JAWA BARAT",
+        "type": "RSK PARU",
+        "cls": "B",
+        "owner":"Pemprop"
+    },
+
+    {
+        "id": 3209040,
+        "name":  "RS Umum Daerah Arjawinangun",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3209051,
+        "name": "RS Umum Mitra Plumbon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3211015,
+        "name": "RS Umum Daerah Sumedang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3212016,
+        "name":  "RS Umum Daerah Kab. Indramayu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3213010,
+        "name":  "RS Umum Daerah Subang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3214011,
+        "name": "RS Umum Daerah Bayu Asih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3215012,
+        "name":  "RS Umum Daerah Karawang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3275013,
+        "name": "RS Umum Daerah dr. Chasbullah Abdulmadjid",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3275094,
+        "name":  "RS Umum Mitra Keluarga Bekasi Barat",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275115,
+        "name":  "RS Umum Hermina Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216152,
+        "name": "RS Umum Siloam",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216163,
+        "name": "RS Umum Sentra Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3216218,
+        "name": "RS Umum Ananda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216252,
+        "name": "RS Umum Daerah Kab.Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3216318,
+        "name": "RS Umum Hermina Grand Wisata",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216329,
+        "name": "RS Umum Permata Cibubur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3271013,
+        "name": "RS Umum PMI Bogor",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3271104,
+        "name": "RS Umum Daerah Kota Bogor",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3271115,
+        "name": "RS Umum Hermina Bogor",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3272014,
+        "name":  "RS Umum Daerah R Syamsudin SH",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3273026,
+        "name": "RSU Bhayangkara Tk II Sartika Asih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"POLRI"
+    },
+
+    {
+        "id": 3273030,
+        "name": "RSAU dr. M. Salamun",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"TNI AU"
+    },
+
+    {
+        "id": 3273052,
+        "name": "RS Umum Immanuel Bandung",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Organisasi Protestan"
+    },
+
+    {
+        "id": 3273074,
+        "name": "RS Umum Santo Borromeus",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Organisasi Katholik"
+    },
+
+    {
+        "id": 3273085,
+        "name": "RS Umum Advent Bandung",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3273165,
+        "name": "RS Ibu dan Anak Limijati",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3273405,
+        "name":  "RS Umum Daerah Kota Bandung",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3273420,
+        "name": "RS Umum Al-Islam Bandung",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3273539,
+        "name": "RS Umum Hermina Pasteur ",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3274016,
+        "name":  "RS Umum Daerah Gunung Jati",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3274020,
+        "name":  "RS Umum Tk. III Ciremai",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"TNI AD"
+    },
+
+    {
+        "id": 3209133,
+        "name": "RS Umum Sumber Waras",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3214031,
+        "name": "RS Umum Siloam Purwakarta",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3276017,
+        "name": "RS Umum Sentra Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201083,
+        "name": "RS Umum Daerah Leuwiliang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3275046,
+        "name": "RS Umum Mitra Keluarga Bekasi Timur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201230,
+        "name": "RS Umum Sentra Medika Cibinong",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275392,
+        "name": "RS Umum Awal Bros Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216393,
+        "name": "RS Umum Mitra Keluarga Cikarang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3214032,
+        "name": "RS Umum dr. Abdul Radjak",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3274136,
+        "name": "RS Jantung Hasna Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSK JANTUNG",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3273542,
+        "name": "RS Umum Santosa Hospital Bandung Kopo",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3204124,
+        "name": "RS Gigi dan Mulut Maranatha",
+        "prov": "JAWA BARAT",
+        "type": "RSK GM",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3277022,
+        "name": "RS Gigi dan Mulut Pendidikan Unjani",
+        "prov": "JAWA BARAT",
+        "type": "RSK GM",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3209054,
+        "name": "RS Umum Permata Cirebon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216436,
+        "name": "RS Umum Omni Cikarang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201247,
+        "name": "RS EMC Sentul",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275063,
+        "name": "RS Awal Bros Bekasi Timur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201256,
+        "name": "RS Universitas Indonesia",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Kementerian Lain"
+    },
+
+    {
+        "id": 3201258,
+        "name": "RS Eka Hospital",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216450,
+        "name": "RS Eka Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "B",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201035,
+        "name": "RS Umum Bhakti Yudha",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3201061,
+        "name": "RS Umum Tugu Ibu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3201115,
+        "name": "RS Umum Bina Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201130,
+        "name":  "RS Ibu dan Anak Citra Insani",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201141,
+        "name": "RS Ibu dan Anak Tumbuh Kembang",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3201152,
+        "name": "RS Umum Mary Cileungsi Hijau",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201196,
+        "name": "RS Umum Bunda Margonda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201207,
+        "name":  "RS Umum MH. Thamrin",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201218,
+        "name": "RS Umum Islam Bogor",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3202040,
+        "name": "RS Umum Daerah Palabuhanratu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3202051,
+        "name":  "RS Umum Daerah Jampang Kulon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemprop"
+    },
+
+    {
+        "id": 3202062,
+        "name": "RS Umum Hermina Sukabumi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3203037,
+        "name":  "RS Umum Daerah Cimacan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3204075,
+        "name": "RS Umum Mitra Kasih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3204090,
+        "name":  "RS Umum Daerah Soreang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3204101,
+        "name": "RS Umum Daerah Cicalengka",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3205021,
+        "name":  "RS Umum Tk IV Guntur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"TNI AD"
+    },
+
+    {
+        "id": 3206070,
+        "name": "RS Umum Jasa Kartini",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3278081,
+        "name": "RS Umum Prasetya Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3207012,
+        "name": "RS Umum Daerah Kab. Ciamis",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3208024,
+        "name": "RS Umum Wijaya Kusumah",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3208035,
+        "name": "RS Umum Sekar Kamulyan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3209025,
+        "name": "RS Pertamina Cirebon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3210014,
+        "name": "RS Umum Daerah Majalengka",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3210025,
+        "name":  "RS Umum Daerah Cideres",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3210036,
+        "name": "RS Bedah Budi Kasih",
+        "prov": "JAWA BARAT",
+        "type": "RSK BEDAH",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3211026,
+        "name": "RS Umum Pakuwon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3212031,
+        "name":  "RS Umum Daerah M.A. Sentot Patrol",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3215023,
+        "name":  "RS Umum Bayukarta",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Protestan"
+    },
+
+    {
+        "id": 3215056,
+        "name": "RS Umum Karya Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3215067,
+        "name": "RS Umum Proklamasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215078,
+        "name": "RS Umum Islam Karawang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3215089,
+        "name": "RS Umum Saraswati",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215112,
+        "name":  "RS Ibu dan Anak Dr. Djoko Pramono",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215123,
+        "name":  "RS Umum Citra Sari Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215134,
+        "name": "RS Umum Izza",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215145,
+        "name": "RS Umum Mandaya",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275024,
+        "name":  "RS Umum Mekar Sari Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3275050,
+        "name": "RS Umum Budi Lestari",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275061,
+        "name": "RS Helsa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216072,
+        "name": "RS Umum Bhakti Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3216104,
+        "name": "RS Umum Karya Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3216126,
+        "name": "RS Umum Annisa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275130,
+        "name": "RS Umum Bhakti Kartini",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3216185,
+        "name": "RS Umum Hosana Medica",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275196,
+        "name": "RS Umum Bella",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275207,
+        "name": "RS Umum Graha Juanda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275229,
+        "name": "RS Umum Anna",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275263,
+        "name": "RS Umum Citra Harapan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275274,
+        "name": "RS Umum Jati Sampurna",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216285,
+        "name": "RS Umum St Elisabeth",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3275307,
+        "name": "RS Siloam Bekasi Sepanjang Jaya",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3271024,
+        "name": "RS Umum Salak",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"TNI AD"
+    },
+
+    {
+        "id": 3271035,
+        "name": "RS Umum Dr Muhamad Hassan Toto",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"TNI AU"
+    },
+
+    {
+        "id": 3271072,
+        "name": "RS Umum Azra",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3271126,
+        "name": "BMC Mayapada Hospital",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3271139,
+        "name": "RS Umum Trimitra",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3272051,
+        "name": "RS Umum Assyifa Sukabumi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3204041,
+        "name": "RS Umum Kebonjati",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3273063,
+        "name": "RS Umum Santo Yusup",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Katholik"
+    },
+
+    {
+        "id": 3273096,
+        "name": "RS Umum Pindad",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3273106,
+        "name":  "RS Umum Muhammadiyah",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Islam "
+    },
+
+    {
+        "id": 3273121,
+        "name":  "RS Umum Rajawali",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3273260,
+        "name": "RS Ibu dan Anak Kota Bandung",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3273431,
+        "name":  "RS Khusus Bedah Halmahera Siaga",
+        "prov": "JAWA BARAT",
+        "type": "RSK BEDAH",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3273453,
+        "name":  "RS Khusus Ginjal NY R.A. Habibie",
+        "prov": "JAWA BARAT",
+        "type": "RSK GINJAL",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3273517,
+        "name": "RS Umum AMC ",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3273528,
+        "name":  "RS Ibu dan Anak Melinda ",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3274031,
+        "name": "RS Ibu dan Anak Panti Abdi Dharma",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Organisasi Katholik"
+    },
+
+    {
+        "id": 3274053,
+        "name": "RS Umum Pelabuhan Cirebon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"BUMN"
+    },
+
+    {
+        "id": 3274064,
+        "name":  "RS Umum Putera Bahagia",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3274090,
+        "name": "RS Umum Sumber Kasih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3276124,
+        "name":  "RS Umum Daerah Kota Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3276135,
+        "name": "RS Umum Simpangan Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3276146,
+        "name":  "RS Umum Hasanah Graha Afiah",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3202073,
+        "name":  "RS Umum Betha Medika ",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3208046,
+        "name": "RS Umum Juanda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3212042,
+        "name": "RS Umum Bhayangkara Indramayu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"POLRI"
+    },
+
+    {
+        "id": 3215045,
+        "name": "RS Umum Dewi Sri",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215156,
+        "name": "RS Umum Lira Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275035,
+        "name": "RS Umum Sentosa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275141,
+        "name": "RS Umum Permata Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216340,
+        "name": "RS Umum Medirossa Cikarang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3216351,
+        "name": "RS Umum Kartika Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216362,
+        "name": "RS Umum Karya Medika II",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201150,
+        "name": "RS Umum Family Medical Center",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3271161,
+        "name": "RS Umum Melania",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275017,
+        "name": "RS Karunia Kasih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275039,
+        "name": "RS Umum Masmitra",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275052,
+        "name": "RS Umum Juwita",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3277018,
+        "name": "RS Umum Mitra Anugrah Lestari",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3206023,
+        "name": "RS Umum Daerah Singaparna Medika Citrautama",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3202084,
+        "name": "RS Umum Bhakti Medicare",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3276028,
+        "name": "RS Umum Mitra Keluarga Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275373,
+        "name": "RS Umum Mitra Keluarga Cibubur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3217121,
+        "name": "RS Umum Cahya Kawaluyan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Katholik"
+    },
+
+    {
+        "id": 3276039,
+        "name": "RS Umum Bhayangkara Brimob",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"POLRI"
+    },
+
+    {
+        "id": 3278014,
+        "name": "RS Umum Tasik Medika Citratama (TMC)",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216374,
+        "name": "RS Umum Multazam Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3208058,
+        "name": "RS Umum Kuningan Medical Center",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201229,
+        "name": "RS Umum Citama",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201094,
+        "name": "RS Umum Annisa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3273145,
+        "name": "RS Umum Hermina Arcamanik",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216385,
+        "name": "RS Umum Harapan Keluarga Jababeka",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216386,
+        "name": "RS Amanda Cikarang Selatan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3271162,
+        "name": "RSIA Pasutri",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3278015,
+        "name": "RS Bersalin Ummi",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216387,
+        "name": "RS Umum Dokter Adam Talib",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3273540,
+        "name": "RS Khusus Gigi dan Mulut Kota Bandung",
+        "prov": "JAWA BARAT",
+        "type": "RSK GM",
+        "cls": "C",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3278016,
+        "name": "RS Ibu dan Anak Sayang Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3278017,
+        "name": "RS Ibu dan Anak Widaningsih",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3208059,
+        "name": "RS Umum Daerah Linggajati Kuningan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3274134,
+        "name": "RS Umum Medimas",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3206083,
+        "name": "RS Ibu dan Anak dr. Hj. Karmini EH",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3275390,
+        "name": "RS Ibu dan Anak Selasih Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3276147,
+        "name": "RS Ibu dan Anak Asyifa Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3215158,
+        "name": "RS Umum Fikri Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201231,
+        "name": "RS Sentosa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216389,
+        "name": "RS Umum Hermina Galaxy",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3215160,
+        "name": "RS Umum Puri Asih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3272025,
+        "name": "RS Umum Bhayangkara Setukpa Lemdikpol",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"POLRI"
+    },
+
+    {
+        "id": 3201232,
+        "name": "RS Umum Daerah Cileungsi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3214033,
+        "name": "RS Umum Asri Purwakarta",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3214034,
+        "name": "RS Umum Rama Hadi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216396,
+        "name": "RSIA Taman Harapan Baru",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3214035,
+        "name": "RS Umum Amira",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216397,
+        "name": "RS Umum Asri Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3204123,
+        "name": "RS Ibu dan Anak Humana Prima",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3214036,
+        "name": "RS Ibu dan Anak Dian",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216399,
+        "name": "RS Mitra Medika Narom",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201235,
+        "name": "RS Umum dr. Sismadi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216400,
+        "name": "RS Uni Medika Setu Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3274135,
+        "name": "RS Umum Sumber Hurip",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3209052,
+        "name": "RS Umum Universitas Muhammadiyah Cirebon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Islam "
+    },
+
+    {
+        "id": 3216402,
+        "name": "RS Umum Anna Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3276041,
+        "name": "RS Umum Grha Permata Ibu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201236,
+        "name": "RS Umum Medika Dramaga",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201238,
+        "name": "RS Umum Hermina Mekarsari",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275403,
+        "name": "RS Ibu dan Anak Rinova Intan",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3214038,
+        "name": "RS Umum Bhakti Husada II Purwakarta",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201239,
+        "name": "RS Ibu dan Anak Assalam",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3277019,
+        "name": "RS Umum Avisena",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216388,
+        "name": "RS Umum Cibitung Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3209053,
+        "name": "RS Ibu dan Anak Khalishah",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275053,
+        "name": "RS Umum Taman Harapan Baru",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3277021,
+        "name": "RS Umum Kasih Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201240,
+        "name": "RS Umum Juliana",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201241,
+        "name": "RS Umum Ummi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3276149,
+        "name": "RS Ibu dan Anak Setya Bhakti",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216406,
+        "name": "RS Umum Metro Hospitals",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216407,
+        "name": "RS Ibu dan Anak Cahaya Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216408,
+        "name": "RS Umum Harapan Mulia",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3213045,
+        "name": "RS Umum Pamanukan Medical Center (PMC)",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216409,
+        "name": "RS Umum Cikarang Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216413,
+        "name": "RS Umum Kartika Husada Setu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216414,
+        "name": "RS Umum Amanda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216415,
+        "name": "RS Umum Ridhoka Salma",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216416,
+        "name": "RS Umum Permata Keluarga Lippo Cikarang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216417,
+        "name": "RS Umum Tiara",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216420,
+        "name": "RS Umum Medirossa 2",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3215162,
+        "name": "RS Umum Helsa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3215163,
+        "name": "RS Ibu dan Anak Sentul",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3276150,
+        "name": "RS Jantung Diagram",
+        "prov": "JAWA BARAT",
+        "type": "RSK JANTUNG",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201242,
+        "name": "RS Ibu dan Anak Kenari Graha Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216423,
+        "name": "RS Umum Kartika Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216424,
+        "name": "RS Ibu dan Anak Gizar",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3276151,
+        "name": "RS Umum Permata Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201243,
+        "name": "RS Ibu dan Anak Sawojajar",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3276152,
+        "name": "RS Umum Citra Medika Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201244,
+        "name": "RS Umum Permata Jonggol",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3271163,
+        "name": "RS Umum Vania",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3202086,
+        "name": "RS Umum Kartika Cibadak",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201245,
+        "name": "RS Umum Karya Bhakti Pratiwi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3271164,
+        "name": "RS Umum Mulia Pajajaran",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201246,
+        "name": "RS Ibu dan Anak Bunda Suryatni",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216427,
+        "name": "RS Dokter Adam Talib Cikunir",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3273541,
+        "name": "RS Ibu dan Anak Harapan Bunda Bandung",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3204133,
+        "name": "RS Unggul Karsa Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3274137,
+        "name": "RS Ibu dan Anak Cahaya Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201233,
+        "name": "RS Umum Rumah Sehat Terpadu Dompet Dhuafa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3203038,
+        "name": "RS Umum Dr. Hafiz ",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perorangan"
+    },
+
+    {
+        "id": 3217005,
+        "name": "RS Umum Karisma",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3205026,
+        "name": "RS Umum Intan Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216432,
+        "name": "RS Ibu dan Anak Sayang Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perorangan"
+    },
+
+    {
+        "id": 3278021,
+        "name": "RS Ibu dan Anak Bunda Aisyah",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3273543,
+        "name": "RS Umum Melinda 2",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275060,
+        "name": "RS Umum Satria Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3206084,
+        "name": "RS Ibu dan Anak Respati",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3204129,
+        "name": "RS Ibu dan Anak Grha Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3210037,
+        "name": "RS Ibu dan Anak Mitra Plumbon Majalengka",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3204130,
+        "name": "RS Mata Bandung Eye Center",
+        "prov": "JAWA BARAT",
+        "type": "RSK Mata",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3276153,
+        "name": "RSU Citra Arafiq",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201250,
+        "name": "RS Ibu dan Anak Permata Pertiwi",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201251,
+        "name": "RS Umum Siloam Hospitals Bogor",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275062,
+        "name": "RS Siloam Bekasi Timur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216441,
+        "name": "RS Umum Permata Keluarga Jababeka",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3207057,
+        "name": "RSU Dadi Keluarga Ciamis",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3213049,
+        "name": "Rumah Sakit Bersalin Grha Mutiara",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3217008,
+        "name": "RS Ibu dan Anak Kartini",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201252,
+        "name": "RS Harapan Sehati",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3276154,
+        "name": "RS Ibu dan Anak Bunda Aliyah",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3273546,
+        "name": "RS Ibu dan Anak Al Islam ",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3208061,
+        "name": "RS Jantung Hasna Medika Kuningan",
+        "prov": "JAWA BARAT",
+        "type": "RSK JANTUNG",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216443,
+        "name": "RS Grha MM2100",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216444,
+        "name": "RS Cenka",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perorangan"
+    },
+
+    {
+        "id": 3276155,
+        "name": "RS Ibu dan Anak Brawijaya Bojongsari",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216445,
+        "name": "RS OMNI Pekayon",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216446,
+        "name": "RSIA Aisyah Qurrataain",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3212058,
+        "name": "RS Ibu dan Anak Irhamna Indramayu",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3216448,
+        "name": "RS Mitra Keluarga Pratama",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201257,
+        "name": "RS Ibu dan Anak Nuraida",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275065,
+        "name": "Rumah Sakit Primaya Bekasi Utara",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216449,
+        "name": "RS Ananda Babelan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3212059,
+        "name": "RS Mitra Plumbon Indramayu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201259,
+        "name": "RS Pena 98",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3210038,
+        "name": "RS Ibu dan Anak Livasya",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3218001,
+        "name": "RS Umum Daerah Pandega Pangandaran",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3215146,
+        "name": "RS Khusus Paru Kabupaten Karawang",
+        "prov": "JAWA BARAT",
+        "type": "RSK PARU",
+        "cls": "C",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3215169,
+        "name": "RS Hermina Karawang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3215170,
+        "name": "RS Primaya Karawang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "C",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3214041,
+        "name": "RS Ibu dan Anak Bunda Fathia",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "C",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201013,
+        "name": "RS Umum Harapan Depok",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3206055,
+        "name": "RS Umum Islam Hj. Siti Muniroh",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Islam "
+    },
+
+    {
+        "id": 3207045,
+        "name": "RS Umum Permata Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3213021,
+        "name": "RS Umum PTPN VIII ",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"BUMN"
+    },
+
+    {
+        "id": 3213032,
+        "name": "RS Umum TNI AU Lanud Suryadarma",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"TNI AU"
+    },
+
+    {
+        "id": 3215100,
+        "name": "RS Umum Delima Asih Sisma Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275083,
+        "name":  "RS Seto Hasbadi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3275296,
+        "name": "RS Umum Islam dr. Subki Abdulkadir",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3272036,
+        "name": "RS Umum Ridogalih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3273110,
+        "name": "RS Umum Bungsu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3273176,
+        "name": "RS Umum Tk IV 03.07.03Sariningsih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"TNI AD"
+    },
+
+    {
+        "id": 3273442,
+        "name": "RS Umum Bina Sehat ",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3274100,
+        "name":  "RS Umum Budi Asta",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3274111,
+        "name": "RS Umum Muhammadiyah",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Islam "
+    },
+
+    {
+        "id": 3212053,
+        "name": "RS Umum Permata Medical Center",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3207056,
+        "name": "RS Umum Al - Arif",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3272062,
+        "name": "RS Umum Kartika Kasih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3208057,
+        "name": "RS Umum El - Syifa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3278082,
+        "name": "RS Umum Permata Bunda",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3217002,
+        "name": "RS Umum Daerah Cililin",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3278018,
+        "name": "RS Umum Syifa Medina",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3205022,
+        "name": "RS Umum Daerah Pameungpeuk Prov. Jabar",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemprop"
+    },
+
+    {
+        "id": 3216447,
+        "name": "RS Ibu dan Anak Nurul Annisa",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3214037,
+        "name": "RS Umum Holistic Purwakarta",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3279002,
+        "name": "RS Umum Mitra Idaman",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3279003,
+        "name": "RS Umum Banjar Patroman",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3213044,
+        "name": "RS Umum Mutiara Hati",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215161,
+        "name": "RS Umum Mitra Family",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275054,
+        "name": "RS Umum As-Shofwan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3204154,
+        "name": "RS Umum TNI AU Lanud Sulaiman",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"TNI AU"
+    },
+
+    {
+        "id": 3216421,
+        "name": "RS Umum Puspa Husada",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215164,
+        "name": "RS Umum Rosela",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216425,
+        "name": "RS Umum Bunda Mulia",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3215165,
+        "name": "RS Umum Sentral Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216426,
+        "name": "RS Umum Kasih Insani Sukatani",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3205023,
+        "name": "RS Umum Nurhayati Garut",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3205024,
+        "name": "RS Umum Annisa Queen",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3212054,
+        "name": "RS Umum MM Indramayu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3275057,
+        "name": "RS Umum Karya Medika Bantar Gebang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3217004,
+        "name": "RS Umum Daerah Lembang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3208060,
+        "name": "RS Umum KMC Luragung",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216434,
+        "name": "RS Umum Budi Asih",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perorangan"
+    },
+
+    {
+        "id": 3214040,
+        "name": "RS Umum Karina Medika",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3203039,
+        "name": "RS Umum Daerah Pagelaran",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3216435,
+        "name": "RS Umum Tarumajaya",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3272075,
+        "name": "RS Umum Daerah Al-Mulk",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3217006,
+        "name": "RS Umum IMC",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216438,
+        "name": "RS Umum Pinna",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3201249,
+        "name": "RS Umum Asysyifaa",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3212055,
+        "name": "RS Umum Pertamina Balongan Indramayu",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"BUMN"
+    },
+
+    {
+        "id": 3215167,
+        "name": "RS Umum Amanda Mitra Keluarga",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3211027,
+        "name": "RS Umum Harapan Keluarga",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3216439,
+        "name": "RS Umum Dr. Iqbali Taufan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perorangan"
+    },
+
+    {
+        "id": 3217007,
+        "name": "RS Umum Daerah Cikalong Wetan",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3213047,
+        "name": "RS Umum Haji Syaiful Anwar",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3271166,
+        "name": "RS Umum Bhayangkara Tk IV Bogor",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"POLRI"
+    },
+
+    {
+        "id": 3216440,
+        "name": "RS Umum Daerah Cabangbungin",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3213048,
+        "name": "RS Umum Kharisma",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275064,
+        "name": "RS Mustika Medika Bekasi",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perusahaan"
+    },
+
+    {
+        "id": 3201253,
+        "name": "RS Ibu dan Anak Melania",
+        "prov": "JAWA BARAT",
+        "type": "RSIA",
+        "cls": "D",
+        "owner":"Organisasi Katholik"
+    },
+
+    {
+        "id": 3201254,
+        "name": "Bogor Senior Hospital",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3208063,
+        "name": "RS Mitra Husada Ciawigebang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Perorangan"
+    },
+
+    {
+        "id": 3208064,
+        "name": "RS Umum Aria Kamuning",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3212057,
+        "name": "RS Syahid Al Irsyad",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3275066,
+        "name": "RS Umum Daerah Jatisampurna",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3275067,
+        "name": "RS Umum Pondok Gede",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3275068,
+        "name": "RS Umum Daerah Bantar Gebang",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemkot"
+    },
+
+    {
+        "id": 3212060,
+        "name": "RS Sentra Medika Langut",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"SWASTA/ LAINNYA"
+    },
+
+    {
+        "id": 3204134,
+        "name": "RSUD Kesehatan Kerja",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"Pemprop"
+    },
+
+    {
+        "id": 3203041,
+        "name": "RS Bhayangkara Cianjur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "D",
+        "owner":"POLRI"
+    },
+
+    {
+        "id": 3274075,
+        "name": "RS Umum Budi Luhur",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "Belum Ditetapkan",
+        "owner":"Organisasi Sosial"
+    },
+
+    {
+        "id": 3212056,
+        "name": "RS Umum Daerah Mursid Ibnu Syafiuddin",
+        "prov": "JAWA BARAT",
+        "type": "RSU",
+        "cls": "Belum Ditetapkan",
+        "owner":"Pemkab"
+    },
+
+    {
+        "id": 3207059,
+        "name": "RS Khusus Bedah RSOP Ciamis",
+        "prov": "JAWA BARAT",
+        "type": "RSK BEDAH",
+        "cls": "Belum Ditetapkan",
+        "owner":"SWASTA/ LAINNYA"
+    }
+]

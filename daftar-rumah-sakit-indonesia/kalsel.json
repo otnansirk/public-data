@@ -1,0 +1,370 @@
+[
+    {
+        "id": 6304016,
+        "name":" RS Jiwa Sambang Lihum",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSK Jiwa",
+        "cls": "A",
+        "owner": "Pemprop"
+    },
+    {
+        "id": 6371013,
+        "name":" RS Umum Daerah Ulin Banjarmasin",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "A",
+        "owner": "Pemprop"
+    },
+    {
+        "id": 6303015,
+        "name":" RS Umum Daerah Ratu Zalecha",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "B",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6306011,
+        "name":" RS Umum Daerah Brigjed H. Hasan Basry Kandangan",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "B",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6371072,
+        "name":" RS Umum Daerah Dr. H. Moch. Ansari Saleh",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "B",
+        "owner": "Pemprop"
+    },
+    {
+        "id": 6371130,
+        "name":" RS Khusus Bedah Banjarmasin Siaga",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSK BEDAH",
+        "cls": "B",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6371153,
+        "name":" RS Khusus Gigi dan Mulut Gusti Hasan Aman",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSK GM",
+        "cls": "B",
+        "owner": "Pemprop"
+    },
+    {
+        "id": 6303033,
+        "name":" RS Umum Ciputra Mitra Hospital",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "B",
+        "owner": "Perusahaan"
+    },
+    {
+        "id": 6301013,
+        "name":" RS Umum Daerah H. Boejasin Pelaihari",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6302014,
+        "name":" RSUD Pangeran Jaya Sumitra",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6304020,
+        "name":" RS Umum Daerah H. Abdul Aziz Marabahan",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6305010,
+        "name":" RS Umum Daerah Datu Sanggul Rantau",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6307012,
+        "name":" RS Umum Daerah H Damanhuri Barabai",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6308013,
+        "name":" RS Umum Daerah Pambalah Batung",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6309014,
+        "name":"  RS Umum Daerah H. Badaruddin Kasim",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6309025,
+        "name":" RS Umum Pertamina Tanjung",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "BUMN"
+    },
+    {
+        "id": 6310015,
+        "name":" RS Umum Daerah dr. H. Andi Abdurrahman Noor",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6371024,
+        "name":" RS Umum Suaka Insan",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Organisasi Sosial"
+    },
+    {
+        "id": 6371046,
+        "name":" RS Islam Banjarmasin",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Organisasi Islam "
+    },
+    {
+        "id": 6371050,
+        "name":" RS Tk.III Dr. R.Soeharsono",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "TNI AD"
+    },
+    {
+        "id": 6371094,
+        "name":" RS Umum Sari Mulia",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Organisasi Sosial"
+    },
+    {
+        "id": 6371141,
+        "name":"  RS TNI-AU Tk.IV Syamsudin Noor",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "TNI AU"
+    },
+    {
+        "id": 6371152,
+        "name":" RS Bhayangkara Tk. III Banjarmasin",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "POLRI"
+    },
+    {
+        "id": 6372014,
+        "name":" RS Umum Daerah Idaman Banjarbaru",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkot"
+    },
+    {
+        "id": 6311016,
+        "name":" RS Umum Daerah Balangan ",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6303027,
+        "name":" RS Umum Pelita Insani",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6303028,
+        "name":" RS Ibu dan Anak Mutiara Bunda",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSIA",
+        "cls": "C",
+        "owner": "Perorangan"
+    },
+    {
+        "id": 6301014,
+        "name":" RS Ibu dan Anak Ainun",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSIA",
+        "cls": "C",
+        "owner": "Organisasi Sosial"
+    },
+    {
+        "id": 6310016,
+        "name":" RS Bersalin Paradise",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSIA",
+        "cls": "C",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6301015,
+        "name":" RS Borneo Citra Medika",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6310018,
+        "name":" RS Umum Marina Permata",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6301016,
+        "name":" RS Ibu dan Anak Ibunda",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSIA",
+        "cls": "C",
+        "owner": "Perorangan"
+    },
+    {
+        "id": 6371155,
+        "name":" RS Ibu dan Anak Annisa",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSIA",
+        "cls": "C",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6372017,
+        "name":" RS Umum Syifa Medika",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Perorangan"
+    },
+    {
+        "id": 6372019,
+        "name":" RSU Almansyur Medika Banjarbaru",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Perusahaan"
+    },
+    {
+        "id": 6371156,
+        "name":" RS Umum Daerah Sultan Suriansyah Banjarmasin",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Pemkot"
+    },
+    {
+        "id": 6372020,
+        "name":" RS Umum Nirwana",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "C",
+        "owner": "Perusahaan"
+    },
+    {
+        "id": 6303026,
+        "name":" RS Umum Danau Salak",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "BUMN"
+    },
+    {
+        "id": 6372016,
+        "name":" RS TK IV Guntung Payung ",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "TNI AD"
+    },
+    {
+        "id": 6303030,
+        "name":" RS Umum Aveciena Medika",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "Perusahaan"
+    },
+    {
+        "id": 6306023,
+        "name":" RS Umum Ceria",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6306024,
+        "name":" RS Umum Daerah Daha Sejahtera",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "Pemkab"
+    },
+    {
+        "id": 6372018,
+        "name":" RS Umum Mawar ",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "Perusahaan"
+    },
+    {
+        "id": 6308014,
+        "name":" RS Mulia Amuntai",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6305011,
+        "name":" RS Umum Handayati",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "SWASTA/ LAINNYA"
+    },
+    {
+        "id": 6301020,
+        "name":" RSUD KH Mansyur",
+        "prov": "KALIMANTAN SELATAN",
+        "type":"RSU",
+        "cls": "D",
+        "owner": "Pemkab"
+    }
+]
